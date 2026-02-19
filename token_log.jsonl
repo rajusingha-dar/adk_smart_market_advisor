@@ -1,0 +1,24 @@
+{"query": "EV market outlook in India 2025", "event": "web_search_request", "ts": 1770130785.3898065}
+{"query": "EV market outlook in India 2025", "results_count": 5, "event": "web_search_response", "ts": 1770130789.8390741}
+{"query": "EV market outlook India 2025", "event": "web_search_request", "ts": 1770131430.766425}
+{"query": "EV market outlook India 2025", "results_count": 5, "event": "web_search_response", "ts": 1770131433.4834003}
+{"stage": "market", "raw_tokens": 525, "event": "token_input", "ts": 1770131440.3545828}
+{"stage": "finance", "raw_tokens": 448, "event": "token_input", "ts": 1770131447.7983224}
+{"query": "EV market outlook in India 2025", "event": "web_search_request", "ts": 1770134191.0414863}
+{"query": "EV market outlook in India 2025", "results_count": 5, "event": "web_search_response", "ts": 1770134194.7212212}
+{"stage": "market", "raw_tokens": 433, "event": "token_input", "ts": 1770134199.5505269}
+{"stage": "finance", "raw_tokens": 524, "event": "token_input", "ts": 1770134208.5199866}
+{"query": "EV market outlook in India 2025", "event": "web_search_request", "ts": 1770134959.3824344}
+{"query": "EV market outlook in India 2025", "results_count": 5, "event": "web_search_response", "ts": 1770134960.6341567}
+{"stage": "market", "raw_tokens": 526, "event": "token_input", "ts": 1770134966.793803}
+{"stage": "finance", "raw_tokens": 474, "event": "token_input", "ts": 1770134972.8861623}
+{"stage": "policy", "raw_tokens": 357, "event": "token_input", "ts": 1770134981.6132119}
+{"stage": "tech", "raw_tokens": 385, "event": "token_input", "ts": 1770134988.4739306}
+{"stage": "risk", "raw_tokens": 380, "event": "token_input", "ts": 1770134995.1767552}
+{"query": "AI market size and growth", "event": "web_search_request", "ts": 1771470895.1549678}
+{"query": "AI market size and growth", "results_count": 5, "event": "web_search_response", "ts": 1771470897.7522988}
+{"stage": "market", "raw_tokens": 404, "event": "token_input", "ts": 1771470903.4510117}
+{"stage": "finance", "raw_tokens": 481, "event": "token_input", "ts": 1771470910.5029905}
+{"stage": "policy", "raw_tokens": 436, "event": "token_input", "ts": 1771470916.7708993}
+{"stage": "tech", "raw_tokens": 7, "event": "token_input", "ts": 1771470918.7916377}
+{"stage": "risk", "raw_tokens": 603, "event": "token_input", "ts": 1771470928.343598}

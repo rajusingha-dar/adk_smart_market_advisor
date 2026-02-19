@@ -1,0 +1,12 @@
+[project]
+name = "smart-market-advisor-v2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "google-adk>=1.23.0",
+    "litellm>=1.81.6",
+    "tiktoken>=0.12.0",
+]
